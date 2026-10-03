@@ -1,5 +1,7 @@
 # Ruri Atlas — see the meaning of Japanese & English text / 日本語と英語の意味を、ブラウザで見る
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23123353.svg)](https://doi.org/10.5281/zenodo.23123353)
+
 [English](#english) | [日本語](#日本語)
 
 **Live demo:** https://huggingface.co/spaces/masahiroid/ruri-atlas  ·  Source: this repository (static site: `index.html`, `extra.js`, `en.json`)

@@ -11,6 +11,9 @@ abstract: >-
 repository-code: "https://github.com/masahiroid/ruri-atlas"
 url: "https://huggingface.co/spaces/masahiroid/ruri-atlas"
 license: Apache-2.0
+doi: 10.5281/zenodo.23123353
+version: "0.6.0"
+date-released: "2026-10-04"
 keywords:
   - semantic-search
   - webgpu
