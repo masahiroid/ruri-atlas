@@ -1,0 +1,32 @@
+{
+  "title": "Ruri Atlas",
+  "upload_type": "software",
+  "description": "A zero-install demo of Japanese and English semantic search that runs entirely in the browser (WebGPU with a WASM fallback): sentence embeddings drawn as a glowing 3-D map, a cross-encoder reranker, switchable embedding models, bilingual maps, and a prompt-injection viewer.",
+  "creators": [
+    {
+      "name": "Nakatsugawa, Masahiro",
+      "orcid": "0009-0000-3224-0103"
+    }
+  ],
+  "license": "apache-2.0",
+  "keywords": [
+    "semantic-search",
+    "webgpu",
+    "japanese",
+    "embeddings",
+    "visualization",
+    "rag"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/masahiroid/ruri-atlas",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/spaces/masahiroid/ruri-atlas",
+      "relation": "isAlternateIdentifier",
+      "scheme": "url"
+    }
+  ]
+}

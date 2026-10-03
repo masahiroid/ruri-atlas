@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Ruri Atlas"
+type: software
+authors:
+  - family-names: Nakatsugawa
+    given-names: Masahiro
+    orcid: "https://orcid.org/0009-0000-3224-0103"
+abstract: >-
+  A zero-install demo of Japanese and English semantic search that runs entirely in the browser (WebGPU with a WASM fallback): sentence embeddings drawn as a glowing 3-D map, a cross-encoder reranker, switchable embedding models, bilingual maps, and a prompt-injection viewer.
+repository-code: "https://github.com/masahiroid/ruri-atlas"
+url: "https://huggingface.co/spaces/masahiroid/ruri-atlas"
+license: Apache-2.0
+keywords:
+  - semantic-search
+  - webgpu
+  - japanese
+  - embeddings
+  - visualization
+  - rag
